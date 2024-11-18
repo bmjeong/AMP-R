@@ -2,6 +2,7 @@ from Utils import *
 
 class Params:
     def __init__(self, Depots, Customers, N_iter=100, buff_size=10):
+        self.solver_path = 'functions/LKH-3.0.6/LKH'
         self.gurobi_time = 1200 # sec
 
         self.Depots = Depots
