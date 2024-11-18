@@ -24,7 +24,7 @@ sudo cp LKH /usr/local/bin
 
 
 - Window
-- Download exe file (http://webhotel4.ruc.dk/~keld/research/LKH-3/LKH-3.exe) 
+    - Download exe file (http://webhotel4.ruc.dk/~keld/research/LKH-3/LKH-3.exe) 
 
 
 - Example code for LKH
