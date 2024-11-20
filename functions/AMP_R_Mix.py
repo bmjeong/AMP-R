@@ -49,7 +49,7 @@ def function_AMP_R_mix(p, flg_buf=True):
             cvg_msg_rate[idx_iter] = tp / total_task
 
     for id_a in range(num_depot):
-        depots[id_a].conflict_resolution(boards)
+        depots[id_a].refinement(boards)
 
     routes = {}
     caps = {}
