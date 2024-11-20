@@ -563,7 +563,7 @@ class BP_depot:
             else:
                 self.decision[3, i] = 1
 
-    def conflict_resolution(self, boards):
+    def refinement(self, boards):
         msg_mat = np.zeros((self.num_depot, self.num_customer))
         msg_mat_c = np.zeros((self.num_depot, self.num_customer))
         dec_mat = np.zeros((self.num_depot, self.num_customer))
