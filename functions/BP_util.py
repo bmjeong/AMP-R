@@ -186,7 +186,7 @@ class BP_depot:
             dist += self.d[self.id, self.num_depot + int(pck_task[-1])]
         return dist
 
-    ### LKH 로 마지막에 Conflict Resolution 후에 사용
+    ### LKH 로 마지막에 Refinement 후에 사용
     def two_opt_(self, route_S):
         alloc = []
         for rr in route_S:
