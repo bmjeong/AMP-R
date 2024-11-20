@@ -33,7 +33,7 @@ def function_AMP_R_lkh(p, flg_buf=True):
                 boards[id_t].msg[4, id_a_4_t] = depots[id_a].decision[3, id_t_4_a]
 
     for id_a in range(num_depot):
-        depots[id_a].conflict_resolution(boards)
+        depots[id_a].refinement(boards)
 
     routes = {}
     caps = {}
