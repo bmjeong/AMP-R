@@ -1,4 +1,5 @@
 # AMP-R
+Solving Heterogeneous Multi-depot Vehicle Routing Problem with AMP(approximate massage passing)-R 
 
 Code for Approximate Message Passing algorithm with Refinemnt
 
