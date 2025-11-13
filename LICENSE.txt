@@ -1,0 +1,12 @@
+PolyForm Noncommercial License 1.0.0
+====================================
+
+This software is licensed under the PolyForm Noncommercial License 1.0.0.
+
+You may use this software for personal, academic, research, or evaluation
+purposes only. You may not use this software for any commercial purpose,
+including providing paid services or incorporating it into a commercial
+product.
+
+The full text of the license is available at:
+https://polyformproject.org/licenses/noncommercial/1.0.0/
